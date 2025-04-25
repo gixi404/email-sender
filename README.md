@@ -1,4 +1,4 @@
-## 📧 Lymail: envía emails automatizados a tus usuarios de Firebase
+## 📧 Envía emails automatizados a tus usuarios de Firebase
 
 ### 1. 📦 Instala las siguientes dependencias:
 
